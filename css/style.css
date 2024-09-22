@@ -124,3 +124,16 @@ select {
   background-color: var(--color-moderate-violet);
   color: var(--color-white);
 }
+
+.Testimonials__profile-picture {
+  border-radius: 50%;
+  border: 2px solid var(--color-lightgray);
+  width: 5rem;
+}
+
+/* Flex wrapper for the avatar and title */
+
+.flex-wrapper {
+  display: flex;
+  gap: 1.7rem;
+}
