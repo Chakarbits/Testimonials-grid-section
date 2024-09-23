@@ -255,13 +255,13 @@ select {
     min-width: 0;
   }
   .Testimonial__quote-1 {
-    width: 70ch;
+    width: 85ch;
   }
 
   .Testimonial__quote-2 {
-    width: 29ch;
+    width: 40ch;
   }
   .Testimonial__quote-5 {
-    width: 30ch;
+    width: 35ch;
   }
 }
