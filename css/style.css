@@ -109,6 +109,18 @@ select {
   --spacing-300: 3.2rem;
 }
 
+.mb-4 {
+  margin-bottom: 1.6rem;
+}
+
+.mb-6 {
+  margin-bottom: 2.4rem;
+}
+
+.mb-10 {
+  margin-bottom: 4rem;
+}
+
 .Testimonial__wrapper {
   max-width: 111rem;
   margin: 0 auto;
@@ -118,6 +130,7 @@ select {
   border-radius: 1rem;
   padding: var(--spacing-200) var(--spacing-300) var(--spacing-300)
     var(--spacing-300);
+  margin-bottom: 2.4rem;
 }
 
 .Testimonial__figure--1 {
@@ -163,7 +176,38 @@ select {
 /* Testimonial Content */
 .Testimonial__content {
   font-size: 2rem;
-  margin-bottom: 4rem;
+  font-weight: var(--fw-600);
 }
 
 /* Testimonial Quotes */
+.Testimonial__quote {
+  opacity: 0.6;
+  min-width: 39ch;
+}
+
+/* Testimonial Figure 2 */
+.Testimonial__figure--2 {
+  background: var(--color-verydarkgrayish-blue);
+  color: var(--color-white);
+}
+
+/* Testimonial Figure 3 */
+
+.Testimonial__figure--3 {
+  background: var(--color-white);
+  color: var(--color-verydarkblackish-blue);
+}
+
+/* Testiomonial figure 4 */
+
+.Testimonial__figure--4 {
+  background: var(--color-verydarkblackish-blue);
+  color: var(--color-white);
+}
+
+/* Testimonial figure 5 */
+
+.Testimonial__figure--5 {
+  background: var(--color-white);
+  color: #48556a;
+}
