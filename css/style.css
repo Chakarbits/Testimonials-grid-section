@@ -136,4 +136,26 @@ select {
 .flex-wrapper {
   display: flex;
   gap: 1.7rem;
+  margin-bottom: 1.8rem;
+}
+
+/* Testimonial details such as the title and verified graduate */
+
+.Testimonial__details {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Testimonial name of clients */
+
+.Testimonial__name {
+  font-weight: var(--fw-500);
+}
+
+/* Testimonial Title Description */
+
+.Testimonial__title-description {
+  font-size: 1.1rem;
+  opacity: 0.5;
+  font-weight: var(--fw-500);
 }
