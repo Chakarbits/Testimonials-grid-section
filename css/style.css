@@ -39,7 +39,7 @@ body {
   min-height: 100vh;
   background: var(--color-lightgrayishblue);
   text-rendering: optimizeSpeed;
-  line-height: 1.5;
+  line-height: 1.2;
   padding: 7.2rem 2.4rem;
 }
 
@@ -159,3 +159,11 @@ select {
   opacity: 0.5;
   font-weight: var(--fw-500);
 }
+
+/* Testimonial Content */
+.Testimonial__content {
+  font-size: 2rem;
+  margin-bottom: 4rem;
+}
+
+/* Testimonial Quotes */
