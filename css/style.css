@@ -134,8 +134,8 @@ select {
 }
 
 .Testimonial__figure--1 {
-  background: var(--color-moderate-violet) url(/images/bg-pattern-quotation.svg)
-    no-repeat calc(60% + 100px) 0;
+  background: #733fc8 url(/images/bg-pattern-quotation.svg) no-repeat
+    calc(60% + 100px) 0;
   color: var(--color-white);
 }
 
@@ -188,7 +188,7 @@ select {
 
 /* Testimonial Figure 2 */
 .Testimonial__figure--2 {
-  background: var(--color-verydarkgrayish-blue);
+  background: #48556a;
   color: var(--color-white);
 }
 
